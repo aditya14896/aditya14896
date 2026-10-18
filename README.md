@@ -22,19 +22,20 @@ My focus is the hard part of applied GenAI: not the demo, but making agentic sys
 🎤 **Speaking & workshops**
 
 *2026*
-* [IEEE ICAD 2026](https://ieee-icad.org/icad-technical-program-2026-with-table/) — Workshop lead: *Hands-On Generative AI: Building Applications with Amazon Bedrock and SageMaker Studio*, Boston College
+* [IEEE ICAD 2026](https://ieee-icad.org/icad-workshop-061126/) — Workshop lead: *Hands-On Generative AI: Building Applications with Amazon Bedrock and SageMaker Studio*, Boston College
 * [AWS Summit Washington, DC 2026](https://aws.amazon.com/events/summits/washington-dc/agenda/) — DVT402 session
-* [AWS Summit Washington, DC 2026](https://aws.amazon.com/events/summits/washington-dc/agenda/) — AIM301: *Optimize Your Cloud Investment with Amazon Bedrock*
-* [CSA Boston](https://cloudsecurityalliance.org/events/) — AI & agentic systems session
-* [URI CS Connect Day](https://web.uri.edu/cs/uri-cs-connect-day-a-full-day-of-connection-insight-and-career-preparation/) — industry speaker, September 2026
-* IT@ND — AWS AI sessions, University of Notre Dame
-* GA Innovation Day — generative AI, College Football Hall of Fame, Atlanta (Carahsoft/AWS)
+* [AWS Summit Washington, DC 2026](https://aws.amazon.com/events/summits/washington-dc/agenda/) — AIM310 Builders' Session: *Optimize Your Cloud Investment with Amazon Bedrock*
+* [Notre Dame Amplify & Elevate IT Retreat 2026](https://itinsights.nd.edu/events-and-meetings/it-retreat/amplify-and-elevate-2026/agenda/) — two AWS sessions: *Hands-On with Kiro, the Agentic Coding Platform from AWS* and *Using GenAI for Data Preparation*
+* [Harvard IT Summit 2026](https://community.harvard.edu/) — speaker, June 10, 2026, Memorial Hall, Cambridge
+* [CSA Boston](https://www.meetup.com/cloud-security-alliance-csa-boston/) — AI & agentic systems session
+* [URI CS Connect Day](https://cs-uri-edu.github.io/cs-connect-day/#/program) — panelist, *How AI Is Reshaping Hiring & Tech Workforce*, September 18, 2026
+* [AWS Georgia Public Sector Innovation Day](https://carahevents.carahsoft.com/Event/Details/750567-effectual) — speaker, College Football Hall of Fame, Atlanta, May 12, 2026 (Carahsoft/AWS)
 
 *2025*
 * AWS Summit Washington, DC 2025 — EDU310: higher education AI session
 
 🗓️ **Upcoming**
-* [AWS re:Invent 2026](https://registration.awsevents.com/flow/awsevents/reinvent2026/eventcatalog/page/eventcatalog?search=ind3315) — IND3315: *AI Discipline* (with UCLA), Nov 30 – Dec 4, Las Vegas
+* [AWS re:Invent 2026](https://registration.awsevents.com/flow/awsevents/reinvent2026/eventcatalog/page/eventcatalog?search=ind3315) — IND3315: *AI Discipline: UCLA's Data Foundation and Framework for Saying No*, Nov 30, Las Vegas
 * [AWS Innovate: State of New York](https://aws-innovate-state-of-newyork.splashthat.com/) — AIML track speaker
 * [AI Governance & Security: Building Trust in the Age of AI](https://carahevents.carahsoft.com/Event/Register/819384-csoft) — speaker, Carahsoft/AWS, November 4, 2026 · Corona del Mar, CA
 
