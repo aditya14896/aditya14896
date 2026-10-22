@@ -30,13 +30,13 @@ My focus is the hard part of applied GenAI: not the demo, but making agentic sys
 * [CSA Boston](https://www.meetup.com/cloud-security-alliance-csa-boston/) — AI & agentic systems session
 * [URI CS Connect Day](https://cs-uri-edu.github.io/cs-connect-day/#/program) — panelist, *How AI Is Reshaping Hiring & Tech Workforce*, September 18, 2026
 * [AWS Georgia Public Sector Innovation Day](https://carahevents.carahsoft.com/Event/Details/750567-effectual) — speaker, College Football Hall of Fame, Atlanta, May 12, 2026 (Carahsoft/AWS)
+* [AWS Innovate: State of New York](https://aws-innovate-state-of-newyork.splashthat.com/) — AIML track speaker, October 2026
 
 *2025*
 * AWS Summit Washington, DC 2025 — EDU310: higher education AI session
 
 🗓️ **Upcoming**
 * [AWS re:Invent 2026](https://registration.awsevents.com/flow/awsevents/reinvent2026/eventcatalog/page/eventcatalog?search=ind3315) — IND3315: *AI Discipline: UCLA's Data Foundation and Framework for Saying No*, Nov 30, Las Vegas
-* [AWS Innovate: State of New York](https://aws-innovate-state-of-newyork.splashthat.com/) — AIML track speaker
 * [AI Governance & Security: Building Trust in the Age of AI](https://carahevents.carahsoft.com/Event/Register/819384-csoft) — speaker, Carahsoft/AWS, November 4, 2026 · Corona del Mar, CA
 
 🎓 M.S. Computer Science (ML specialization), George Mason University
